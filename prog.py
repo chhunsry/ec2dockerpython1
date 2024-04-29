@@ -1,1 +1,1 @@
-Hellow World
+print("PYTHON PROGRAM Execute in EC2 FROM DOCKER CONTAINER")
